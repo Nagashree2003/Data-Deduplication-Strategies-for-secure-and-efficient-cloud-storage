@@ -47,10 +47,10 @@ Bandwidth savings due to storing only unique data blocks.
 ## 🖥️ Software Requirements
 To run this project, you will need the following software:
 
-# Operating System: Windows (Recommended)
-# Programming Language: Java (JDK 8 or higher)
-# Frameworks: Java AWT/Swing for front-end, Java-based libraries for encryption and compression
-# Database: MySQL 5.0 Server (For data management)
+ Operating System: Windows (Recommended)
+ Programming Language: Java (JDK 8 or higher)
+ Frameworks: Java AWT/Swing for front-end, Java-based libraries for encryption and compression
+ Database: MySQL 5.0 Server (For data management)
 # Tools:
 NetBeans IDE 8.0: Integrated Development Environment (IDE) for Java.
 HeidiSQL: Database management tool for MySQL.
